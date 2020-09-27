@@ -23,7 +23,7 @@
         </div>
 
 
-WISSAEWEB web
+
 
         <div class="col-md-8">
            
